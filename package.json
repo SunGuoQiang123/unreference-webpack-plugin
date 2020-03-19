@@ -1,0 +1,13 @@
+{
+  "name": "unrefernced-webpack-plugin",
+  "description": "A new Project...",
+  "main": "main.js",
+  "version": "0.0.1",
+  "scripts": {},
+  "files": ["index.js"],
+  "author": "sunguoqiang",
+  "licence": "MIT",
+  "peerDependencies": {
+    "wepack": "~4.40.0"
+  }
+}
